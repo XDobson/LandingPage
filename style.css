@@ -226,7 +226,7 @@ form input[type="email"] {
     font-size: 20px;
     margin-bottom: 10px;
 }
-@media (min-width: 1500px;) {
+@media (min-width: 1500px) {
     #about h1{
         font-size: 100px;
     }
